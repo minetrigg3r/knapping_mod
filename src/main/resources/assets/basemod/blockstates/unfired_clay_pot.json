@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "basemod:block/unfired_clay_pot"
+    },
+    "facing=east": {
+      "model": "basemod:block/unfired_clay_pot",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "basemod:block/unfired_clay_pot",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "basemod:block/unfired_clay_pot",
+      "y": 270
+    }
+  }
+} 

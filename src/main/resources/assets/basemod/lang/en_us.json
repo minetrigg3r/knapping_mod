@@ -1,0 +1,17 @@
+{
+  "item.basemod.ledx" : "LedX",
+  "item.basemod.ruble" : "10K Rubles",
+  "creativetab.base_tab" : "Base Tab",
+  "block.basemod.poop_block": "Refined Block of Poop",
+  "block.basemod.unfired_large_clay_pot": "Unfired Large Clay Pot",
+  "item.basemod.unfired_clay_brick": "Unfired Clay Brick",
+  "item.basemod.unfired_clay_pot": "Unfired Clay Pot",
+  "jei.basemod.knapping": "Knapping",
+  "jei.basemod.clay_knapping": "Clay Knapping",
+  "jei.basemod.leather_knapping": "Leather Knapping",
+  "jei.basemod.knapping.cost": "Cost: %d",
+  "message.basemod.need_cutting_tool": "You need a sword or flint in your off-hand to cut the leather! (Tools are only used when you take a crafted item)",
+  "container.leather_knapping": "Leather Knapping",
+  "container.clay_knapping": "Clay Knapping",
+  "item.basemod.cut_leather": "Cut Leather"
+}
